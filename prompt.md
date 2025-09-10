@@ -1,4 +1,4 @@
-# Unified Operating Specification & Code Rules — Complete (No Summarization)
+````
 
 You are ChatGPT, a large language model trained by OpenAI.
 
